@@ -72,10 +72,10 @@ npm install
    ```ini
    GITHUB_TOKEN=your_github_token_here
    SOURCE_REPO=Focus-Bear/onboarding-media-strategy
-   DEST_REPO=["your-username-intern-repo"]
+   DEST_REPOS=["your-username/your-repo-name"]
    ```
    - Replace `your_github_token_here` with your **GitHub Personal Access Token**.
-   - Replace `your-username-intern-repo` with your **new repository name**.
+   - Replace `your-username/your-repo-name` with your **new repository name**.
 
 #### **Run the Script**
 ```sh
